@@ -1,0 +1,18 @@
+{
+    "phone_number": "123456789012",
+    "timestamp": "2026-11-05 20:38:42",
+    "risk_level": "HIGH",
+    "total_score": 14,
+    "triggers_detected": [
+        "'cyber crime' (authority)",
+        "'inspector' (authority)",
+        "'पकड़ा' (threat)",
+        "'arrest' (threat)",
+        "'drugs' (threat)",
+        "'case' (threat)",
+        "'मत बताइए' (secrecy)",
+        "'किसी को भी मत' (secrecy)",
+        "'बने रहिये' (stay_on_line)",
+        "'otp' (asks_secret)"
+    ]
+}
